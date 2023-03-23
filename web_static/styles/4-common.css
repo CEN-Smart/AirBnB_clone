@@ -1,4 +1,13 @@
 /*
+<<<<<<< HEAD
+ * === Global style ===
+ */
+
+/* Body style */
+body {
+  color: #484848;
+  font: 14px Circular, "Helvetica Neue", Helvetica, Arial, sans-serif;
+=======
  * Global style 
  */
 
@@ -7,9 +16,20 @@ body {
 	font-color: #484848;
 	font-size: 14px;
 	font-family: Circular, Helvetica Neue, Helvetica, Arial, sans-serif;
+>>>>>>> f53b1ef2f01558d278ffb4f058f242e93062f466
 }
 
+/* Container style */
 .container {
+<<<<<<< HEAD
+  margin: 30px auto;
+  max-width: 1000px;
+}
+
+/* Strong style */
+strong {
+  font-weight: bold;
+=======
 	max-width: 1000px;
 	margin: 30px auto;
 }
@@ -17,4 +37,5 @@ body {
 /* Strong style*/
 strong {
 	font-weight: bold;
+>>>>>>> f53b1ef2f01558d278ffb4f058f242e93062f466
 }

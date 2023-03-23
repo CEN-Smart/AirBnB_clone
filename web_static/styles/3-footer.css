@@ -1,4 +1,20 @@
+/*
+ * === Footer style ===
+ */
+
+/* Footer style */
 footer {
+<<<<<<< HEAD
+  align-items: center;
+  background-color: #fff;
+  border-top: 1px solid #ccc;
+  bottom: 0;
+  display: flex;
+  height: 60px;
+  justify-content: center;
+  position: absolute;
+  width: 100%;
+=======
 	background-color: white;
 	align-items: center;
 	bottom: 0;
@@ -8,4 +24,5 @@ footer {
 	position: fixed;
 	width: 100%;
 	border-top: 1px solid #CCCCCC;
+>>>>>>> f53b1ef2f01558d278ffb4f058f242e93062f466
 }
